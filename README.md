@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sujan P</h1>
 <h3 align="center">A passionate Data scientist from India</h3>
 
-- 🌱 I’m currently learning **Power BI,Python Libraries,Machine Learning,Excel**
+- 🌱 I’m currently learning **Power BI,Python Libraries,Machine Learning,Excel,Computer Vision**
 
 - 📫 How to reach me **sujanprabakaran2004@gmail.com**
 
