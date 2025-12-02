@@ -6,9 +6,9 @@ I'm an aspiring <b>AI Engineer</b> and <b>Data Scientist</b> from India, passion
 
 <h3 align="left">🛠 Tech Stack</h3>
 <p align="left">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dflat-square%26logo%3Dpython%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Java-ED8B00%3Fstyle%3Dflat-square%26logo%3Dopenjdk%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/MySQL-4479A1%3Fstyle%3Dflat-square%26logo%3Dmysql%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dflat-square%26logo%3Dpython%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/Java-ED8B00%3Fstyle%3Dflat-square%26logo%3Dopenjdk%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/MySQL-4479A1%3Fstyle%3Dflat-square%26logo%3Dmysql%26logoColor%3Dwhite" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/TensorFlow-FF6F00%3Fstyle%3Dflat-square%26logo%3Dtensorflow%26logoColor%3Dwhite" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/PyTorch-EE4C2C%3Fstyle%3Dflat-square%26logo%3Dpytorch%26logoColor%3Dwhite" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/OpenCV-5C3EE8%3Fstyle%3Dflat-square%26logo%3Dopencv%26logoColor%3Dwhite" />
