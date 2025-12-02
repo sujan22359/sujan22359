@@ -58,4 +58,4 @@ I'm an aspiring <b>AI Engineer</b> and <b>Data Scientist</b> from India, passion
 <a href="https://www.codechef.com/users/sujancode359" target="blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/CodeChef-5B4638%3Fstyle%3Dflat-square%26logo%3Dcodechef%26logoColor%3Dwhite" />
 </a>
-</p> 
+</p>
