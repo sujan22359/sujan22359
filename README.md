@@ -41,8 +41,8 @@ I'm an aspiring <b>AI Engineer</b> and <b>Data Scientist</b> from India, passion
 ### 📈 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=sujan22359&show_icons=true&locale=en" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sujan22359&layout=compact&locale=en" />
+<img src="https://github-readme-stats.vercel.app/api?username=sujan22359&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujan22359&layout=compact&theme=tokyonight" />
 </p>
 
 ---
